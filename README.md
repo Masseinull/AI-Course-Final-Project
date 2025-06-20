@@ -28,7 +28,7 @@ The entire process is contained within the `AI_FinalProject.ipynb` notebook and 
 
 1.  Clone the repository to your local machine:
     ```bash
-    git clone <[your-repository-link](https://github.com/Masseinull/AI-Course-Final-Project.git)>
+    git clone https://github.com/Masseinull/AI-Course-Final-Project.git
     ```
 2.  Navigate to the project directory:
     ```bash
